@@ -19,6 +19,3 @@ The versions presented above are tested. Newer or older releases might work too.
 After that just start app.py:
 `python ./app.py`
 
-### Participants
-- Thomas Mott (thomas.mott@cs.hs-fulda.de)
-- Manuel Schmitt (manuel.schmitt@cs.hs-fulda.de)
