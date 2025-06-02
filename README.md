@@ -1,6 +1,6 @@
 # Mandelbrot Research Project
 
-Research Project WS22/23 at Hochschule Fulda, Germany
+Research Project at Hochschule Fulda, Germany
 
 This project aims at optimizing the calculation of the mandelbrot set with tensorflow and enhancing the the image output quality by using the logarithm. It allows to set
 different options and parameters and outputs the runtime-duration as well as the current image variance to the console.
